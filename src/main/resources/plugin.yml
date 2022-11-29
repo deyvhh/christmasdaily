@@ -1,0 +1,5 @@
+name: devyhh-nn
+version: '${project.version}'
+main: pl.devyhh.Main
+api-version: 1.18
+authors: [ devyhh ]
